@@ -1,5 +1,4 @@
 # Pattern Recognition Assignments 2: Classification
-UVic Robotics Master. Pattern Recognition Homework 2
 
 ## Instructions
 
